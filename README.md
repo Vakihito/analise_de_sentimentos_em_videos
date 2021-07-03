@@ -1,4 +1,5 @@
 # Analise de sentimentos em vídeos
+---
 Esta é uma simples aplicação de análise de sentimentos em vídeos. Para tal, utilizamos o BERT para a análise de sentimentos em texto, assim como modelos de convolução proposto por 
 
 
