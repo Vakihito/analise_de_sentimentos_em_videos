@@ -4,5 +4,6 @@ Esta é uma simples aplicação de análise de sentimentos em vídeos. Para tal,
 
 ---
 notebook de demonstração : [link](https://colab.research.google.com/drive/1Ptp3fLgCoR1R_V6y2JKDlUo-EuCZsN_9) 
+demonstração da aplicação : [video](https://studio.youtube.com/video/eWX21QAbqNE/edit)
 
 
